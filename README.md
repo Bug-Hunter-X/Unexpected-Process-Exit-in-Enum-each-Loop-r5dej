@@ -1,0 +1,1 @@
+This repository showcases a common Elixir coding error related to prematurely exiting a process within an Enum.each loop.  The `bug.ex` file demonstrates the problem, where the process unexpectedly terminates when a specific condition is met. The `bugSolution.ex` file provides a corrected version utilizing other Elixir functions.
